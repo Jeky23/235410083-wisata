@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wisata Pantai Glagah</string>
+    <string name="glagah_content_description" />
+    <string name="glagah_pasar" />
+    <string name="glagah_perahu" />
+    <string name="glagah_atv" />
+    <string name="glagah_naga" />
+    <string name="glagah_kebun" />
+    <string name="next">next</string>
+    <string name="prevous">prevous</string>
+    <string name="awal">halaman pertama</string>
+
+
+</resources>
